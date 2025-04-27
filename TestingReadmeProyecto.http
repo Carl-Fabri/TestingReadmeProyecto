@@ -1,0 +1,6 @@
+@TestingReadmeProyecto_HostAddress = http://localhost:5153
+
+GET {{TestingReadmeProyecto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
