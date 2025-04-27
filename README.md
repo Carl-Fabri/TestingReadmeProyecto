@@ -1,7 +1,7 @@
-# TestingReadmeProyect
+# TestingReadmeProyect 🛠️
 Esto es un proyecto creado con fines completamente educativos.
 
-## Tabla de contenidos
+## Tabla de contenidos 📋
 - [Demostración](#demostración)
 - [Requisitos](#requisitos)
 - [Características](#características)
@@ -9,20 +9,20 @@ Esto es un proyecto creado con fines completamente educativos.
 
 <br>
 
-## Demostración
+## Demostración 🎥
 
 ![Image](https://i.postimg.cc/kGrx3zLR/Image-Example.png)
 
 <br>
 
-## Requisitos
+## Requisitos ✅
 
 - NET 9 SDK Installed
 - PostgreSQL 14
 
 <br>
 
-## Caracteristica
+## Caracteristicas ✨
 
 - ASP.NET Core 9.0
 - Entity Framework
@@ -30,7 +30,7 @@ Esto es un proyecto creado con fines completamente educativos.
 
 <br>
 
-## Instalación
+## Ejecución o instalación 🚀
 
 1. Establecer la configuración de tu cadena de conexión correctamente en `appsettings.json.`
 
